@@ -63,6 +63,17 @@ main > .tagline {
 	padding: 10px;
 }
 
+.caption {
+    display:inline-block;
+    font-size:0.8em;
+}
+
+.icon-with-caption {
+    display: inline-block;
+    margin: 0 5px;
+    text-align: center;
+}
+
 .icons-social a {
   text-decoration: none;
 }
